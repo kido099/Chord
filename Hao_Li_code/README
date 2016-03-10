@@ -1,0 +1,3 @@
+I implemented the chord in the files which are included in the folder. Implemented the find successor, find predecessor, find closest preceding node;
+I use the second way in the paper, which is the stablize(periodically refresh the successor and predecessor),notify the successor, and periodically refresh the finger tables to handle the node joining. Query function is in the query.c file, which uses the find successor function.
+I code,run, and debug all this project in the xcode under the mac os environment.
